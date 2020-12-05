@@ -1,0 +1,22 @@
+{
+  "name": "weatherapplicationnodejs",
+  "version": "1.0.0",
+  "description": "Creating a Weather Nodejs application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/architgoyal07/WeatherApplicationNodejs.git"
+  },
+  "author": "Archit Goyal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/architgoyal07/WeatherApplicationNodejs/issues"
+  },
+  "homepage": "https://github.com/architgoyal07/WeatherApplicationNodejs#readme",
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
+}
